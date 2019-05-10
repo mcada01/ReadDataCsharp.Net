@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExConnectionDataBase", "ExConnectionDataBase\ExConnectionDataBase.csproj", "{6701B197-71CA-49B5-A39A-25A00E5AA87C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6701B197-71CA-49B5-A39A-25A00E5AA87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6701B197-71CA-49B5-A39A-25A00E5AA87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6701B197-71CA-49B5-A39A-25A00E5AA87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6701B197-71CA-49B5-A39A-25A00E5AA87C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {427B7741-A633-4CEA-89AC-947E7D2A7077}
+	EndGlobalSection
+EndGlobal
